@@ -35,6 +35,3 @@ Enter a location in the search bar to see its current weather.
 
 Contributions are welcome Feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
